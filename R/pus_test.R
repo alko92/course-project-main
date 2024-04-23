@@ -66,5 +66,5 @@ plot_covid_line_v1
 setwd()
 
 usethis::use_git()
-# note
+usethis :: use_git()
 
