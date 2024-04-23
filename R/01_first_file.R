@@ -1,0 +1,7 @@
+install.packages("usethis")
+install.packages("gitcreds")
+install.packages("here")
+installed.packages("tidyverse")
+install.packages("tidyverse")
+install.packages("medicaldata")
+install.packages("cowplot")
